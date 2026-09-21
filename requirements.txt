@@ -2,4 +2,4 @@ python-dotenv
 anthropic 
 openrouter
 openai 
-google-generativeai
+google.genai
