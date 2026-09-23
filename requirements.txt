@@ -7,6 +7,7 @@ langchain
 langchain-experimental
 langchain-community
 langchain-openai
+langchain-google-genai
 pandas
 numpy
 tabulate
