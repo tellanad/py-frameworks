@@ -3,3 +3,10 @@ anthropic
 openrouter
 openai 
 google.genai
+langchain
+langchain-experimental
+langchain-community
+langchain-openai
+pandas
+numpy
+tabulate
